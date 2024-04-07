@@ -19,10 +19,9 @@ git clone https://github.com/ashaduzzaman-sarker/Predict-Password-Strength-using
 
 2. Install the required dependencies:
 
-'''
+```
 pip install -r requirements.txt
-'''
-  
+```  
 3. Open the Jupyter Notebook `Predict Password Strength using Natural Language Processing.ipynb` to explore the project.
 
 ## Usage
