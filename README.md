@@ -1,4 +1,4 @@
-```markdown
+
 # Predict Password Strength using Natural Language Processing
 
 This repository contains a machine learning project that predicts the strength of passwords using natural language processing techniques. The project includes data preprocessing, feature engineering, model training, evaluation, and deployment steps.
@@ -19,18 +19,18 @@ git clone https://github.com/ashaduzzaman-sarker/Predict-Password-Strength-using
 
 2. Install the required dependencies:
 
-```
-Below is a list of dependencies used in the project:
+  Below is a list of dependencies used in the project:
 
 - pandas: Used for data manipulation and analysis.
 - numpy: Used for numerical operations and array manipulation.
 - matplotlib: Used for data visualization, particularly for creating plots and charts.
 - seaborn: Built on top of matplotlib, seaborn is used for statistical data visualization, providing a high-level interface for drawing attractive and informative statistical graphics.
 - sqlite3: Used for interacting with SQLite databases.
-- scikit-learn: A machine learning library that provides simple and efficient tools for data mining and data analysis tasks. It includes various algorithms for classification, regression, clustering, dimensionality reduction, and model evaluation.
+- scikit-learn: A machine learning library that provides simple and efficient tools for data mining and data analysis tasks. It includes various algorithms for classification, regression, clustering,     
+  dimensionality reduction, and model evaluation.
 - string: A standard Python library module that provides constants and functions for working with strings.
 - collections: Another standard Python library module that provides additional data structures beyond the built-in ones such as lists, tuples, and dictionaries.
-```
+  
 3. Open the Jupyter Notebook `Predict Password Strength using Natural Language Processing.ipynb` to explore the project.
 
 ## Usage
@@ -39,7 +39,7 @@ Follow the instructions provided in the Jupyter Notebook to understand the proje
 
 ## Features
 
-The project includes the following features:
+  The project includes the following features:
 
 - Data Preprocessing: Removing irrelevant features, checking for duplicate rows, handling missing values, and exploring data types.
 - Semantic Analysis: Analyzing password characteristics such as numeric, uppercase, lowercase, alphabetic, alphanumeric, title-case, and special characters.
@@ -57,11 +57,11 @@ The project includes the following features:
 - Classification Report: The classification report presents precision, recall, F1-score, and support for each strength category.
 
 ## Contributors
-
-- Ashaduzzaman Sarker([https://github.com/yourusername](https://github.com/ashaduzzaman-sarker)
-
+```
+Ashaduzzaman Sarker
+https://github.com/ashaduzzaman-sarker
+```
 
 Contributions to this project are welcome! If you have any ideas for improvement, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
-```
 
