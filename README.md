@@ -19,17 +19,9 @@ git clone https://github.com/ashaduzzaman-sarker/Predict-Password-Strength-using
 
 2. Install the required dependencies:
 
-  Below is a list of dependencies used in the project:
-
-- pandas: Used for data manipulation and analysis.
-- numpy: Used for numerical operations and array manipulation.
-- matplotlib: Used for data visualization, particularly for creating plots and charts.
-- seaborn: Built on top of matplotlib, seaborn is used for statistical data visualization, providing a high-level interface for drawing attractive and informative statistical graphics.
-- sqlite3: Used for interacting with SQLite databases.
-- scikit-learn: A machine learning library that provides simple and efficient tools for data mining and data analysis tasks. It includes various algorithms for classification, regression, clustering,     
-  dimensionality reduction, and model evaluation.
-- string: A standard Python library module that provides constants and functions for working with strings.
-- collections: Another standard Python library module that provides additional data structures beyond the built-in ones such as lists, tuples, and dictionaries.
+'''
+pip install -r requirements.txt
+'''
   
 3. Open the Jupyter Notebook `Predict Password Strength using Natural Language Processing.ipynb` to explore the project.
 
@@ -52,7 +44,7 @@ Follow the instructions provided in the Jupyter Notebook to understand the proje
 
 ## Results
 
-- Accuracy Score: The model achieved an accuracy score of 100% on the test set.
+- Accuracy Score: The model achieved an accuracy score of `100%` on the test set.
 - Confusion Matrix: The confusion matrix provides insights into the performance of the model across different strength categories.
 - Classification Report: The classification report presents precision, recall, F1-score, and support for each strength category.
 
